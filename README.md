@@ -25,3 +25,6 @@ This project gave me the opportunity to dive into data analysis using Python, le
 - Pandas  
 - Matplotlib  
 - Jupyter Notebook  
+
+## 🔗 Project Link:
+[Click here to view the project](https://drive.google.com/file/d/149J0Tkpw8ICnhkxjkE4Q6jPW8KG2Z-He/view?usp=sharing)
